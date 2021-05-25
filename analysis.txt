@@ -5,7 +5,7 @@ Syx% 10.4448853   8.7789854 10.8532011   11.6140873
 
 ________________________________________________________
 
-The best model to describe the dataset prvided is the Support Vector Machine
+The best model to describe the dataset provided is the Support Vector Machine
 model. It has the greater value of R square meaning it is the best fit for the
 data amd also the smallest value of Syx and Syx%, meaning the smaller error 
 between all the models. 

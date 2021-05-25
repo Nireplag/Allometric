@@ -30,6 +30,7 @@ saveRDS(nn, "neuralnet.rds") #save trained model
 # alometric model 
 alom <- nls(VOL ~ b0 + b1 * DAP * DAP * HT, volume_train, start = list(b0 = 0.5, b1 = 0.5))
 saveRDS(alom, "allometric.rds")
+
 # predictions of test data
 
 rf <- readRDS("rf.rds")
