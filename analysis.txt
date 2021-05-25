@@ -1,0 +1,11 @@
+     metrics.rf metrics.svm metrics.nn metrics.alom
+R2    0.8343430   0.8829716  0.8211380    0.7951799
+Syx   0.1434236   0.1205484  0.1490304    0.1594785
+Syx% 10.4448853   8.7789854 10.8532011   11.6140873
+
+________________________________________________________
+
+The best model to describe the dataset prvided is the Support Vector Machine
+model. It has the greater value of R square meaning it is the best fit for the
+data amd also the smallest value of Syx and Syx%, meaning the smaller error 
+between all the models. 
