@@ -1,2 +1,2 @@
 # Allometric
-Calculation of allomeyric volumen of tree 
+Calculation of allomeyric volume of trees 
